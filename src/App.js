@@ -1,12 +1,10 @@
 import React from "react"
-import Signup from "./pages/Signup"
 
 const App = (props) => {
 
   return (
     <div>
-      <h1>hello</h1>
-      <Signup />
+      <h1>Welcome to Game Nexus Hub</h1>
     </div>
   )
 }

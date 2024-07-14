@@ -1,11 +1,12 @@
 import React from "react"
+import Form from "../components/Form"
+
 
 const Signup = (props) => {
   return (
     <div>
-        <input type="text" placeholder="Email"></input>
-        <input type="text" placeholder="Confirm Email"></input>
-        <input type="text" placeholder="Password"></input>
+        <h1>Sign up sheet</h1>
+        <Form />
     </div>
   )
 }
