@@ -1,4 +1,5 @@
 import React from "react"
+import './Form.css'
 
 
 // https://www.w3schools.com/react/react_forms.asp
@@ -6,24 +7,17 @@ import React from "react"
 
 const Form = (props) => {
   return (
-    <div>
+    <div className="Form">
       <form>
-        <label>
-            Enter a valid email address:
-            <input type="email"/>
+        <label className="Form-Header"><input type="email" placeholder="Enter a email address"/>
         </label>
-        <label>
-            Confirm email address:
-            <input type="email"/>
+        <label className="Form-Body"><input type="email" placeholder="Confirm email address"/>
         </label>
-        <label>
-            Enter a password:
-            <input type="password" />
+        <label className="Form-Body"><input type="password" placeholder="Enter a password"/>
         </label>
-        <label>
-            Confirm password:
-            <input type="password" />
+        <label className="Form-Body"><input type="password" placeholder="Confirm password"/>
         </label>
+        <button className="Form-Button">Submit</button>
       </form>
     </div>
   )

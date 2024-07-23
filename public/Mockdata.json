@@ -1,0 +1,204 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "releaseDate": "2017-03-03",
+      "genre": ["Action-adventure"],
+      "platforms": ["Nintendo Switch", "Wii U"],
+      "image": "https://example.com/zelda_breath_of_the_wild.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Witcher 3: Wild Hunt",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "releaseDate": "2015-05-19",
+      "genre": ["Action RPG"],
+      "platforms": ["PlayStation 4", "Xbox One", "Nintendo Switch", "PC"],
+      "image": "https://example.com/witcher_3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Red Dead Redemption 2",
+      "developer": "Rockstar Studios",
+      "publisher": "Rockstar Games",
+      "releaseDate": "2018-10-26",
+      "genre": ["Action-adventure"],
+      "platforms": ["PlayStation 4", "Xbox One", "PC"],
+      "image": "https://example.com/red_dead_redemption_2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "God of War (2018)",
+      "developer": "Santa Monica Studio",
+      "publisher": "Sony Interactive Entertainment",
+      "releaseDate": "2018-04-20",
+      "genre": ["Action-adventure"],
+      "platforms": ["PlayStation 4"],
+      "image": "https://example.com/god_of_war.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Super Mario Odyssey",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "releaseDate": "2017-10-27",
+      "genre": ["Platformer"],
+      "platforms": ["Nintendo Switch"],
+      "image": "https://example.com/super_mario_odyssey.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Persona 5",
+      "developer": "Atlus",
+      "publisher": "Atlus",
+      "releaseDate": "2016-09-15",
+      "genre": ["Role-playing"],
+      "platforms": ["PlayStation 4", "PlayStation 3"],
+      "image": "https://example.com/persona_5.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Bloodborne",
+      "developer": "FromSoftware",
+      "publisher": "Sony Computer Entertainment",
+      "releaseDate": "2015-03-24",
+      "genre": ["Action RPG"],
+      "platforms": ["PlayStation 4"],
+      "image": "https://example.com/bloodborne.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Dark Souls III",
+      "developer": "FromSoftware",
+      "publisher": "Bandai Namco Entertainment",
+      "releaseDate": "2016-04-12",
+      "genre": ["Action RPG"],
+      "platforms": ["PlayStation 4", "Xbox One", "PC"],
+      "image": "https://example.com/dark_souls_3.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Horizon Zero Dawn",
+      "developer": "Guerrilla Games",
+      "publisher": "Sony Interactive Entertainment",
+      "releaseDate": "2017-02-28",
+      "genre": ["Action RPG"],
+      "platforms": ["PlayStation 4", "PC"],
+      "image": "https://example.com/horizon_zero_dawn.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Minecraft",
+      "developer": "Mojang Studios",
+      "publisher": "Mojang Studios",
+      "releaseDate": "2011-11-18",
+      "genre": ["Sandbox", "Survival"],
+      "platforms": ["Multi-platform"],
+      "image": "https://example.com/minecraft.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Grand Theft Auto V",
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "releaseDate": "2013-09-17",
+      "genre": ["Action-adventure"],
+      "platforms": ["PlayStation 4", "Xbox One", "PC"],
+      "image": "https://example.com/gta_v.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Overwatch",
+      "developer": "Blizzard Entertainment",
+      "publisher": "Blizzard Entertainment",
+      "releaseDate": "2016-05-24",
+      "genre": ["First-person shooter"],
+      "platforms": ["PlayStation 4", "Xbox One", "PC"],
+      "image": "https://example.com/overwatch.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Fortnite",
+      "developer": "Epic Games",
+      "publisher": "Epic Games",
+      "releaseDate": "2017-07-25",
+      "genre": ["Battle royale"],
+      "platforms": ["Multi-platform"],
+      "image": "https://example.com/fortnite.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Cyberpunk 2077",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "releaseDate": "2020-12-10",
+      "genre": ["Action RPG"],
+      "platforms": ["PlayStation 4", "Xbox One", "PC"],
+      "image": "https://example.com/cyberpunk_2077.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Animal Crossing: New Horizons",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "releaseDate": "2020-03-20",
+      "genre": ["Social simulation"],
+      "platforms": ["Nintendo Switch"],
+      "image": "https://example.com/animal_crossing_new_horizons.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Fallout 4",
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "releaseDate": "2015-11-10",
+      "genre": ["Action RPG"],
+      "platforms": ["PlayStation 4", "Xbox One", "PC"],
+      "image": "https://example.com/fallout_4.jpg"
+    },
+    {
+      "id": 17,
+      "title": "The Elder Scrolls V: Skyrim",
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "releaseDate": "2011-11-11",
+      "genre": ["Action RPG"],
+      "platforms": ["Multi-platform"],
+      "image": "https://example.com/skyrim.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Call of Duty: Modern Warfare (2019)",
+      "developer": "Infinity Ward",
+      "publisher": "Activision",
+      "releaseDate": "2019-10-25",
+      "genre": ["First-person shooter"],
+      "platforms": ["PlayStation 4", "Xbox One", "PC"],
+      "image": "https://example.com/call_of_duty_modern_warfare.jpg"
+    },
+    {
+      "id": 19,
+      "title": "League of Legends",
+      "developer": "Riot Games",
+      "publisher": "Riot Games",
+      "releaseDate": "2009-10-27",
+      "genre": ["MOBA"],
+      "platforms": ["PC"],
+      "image": "https://example.com/league_of_legends.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Counter-Strike: Global Offensive",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "2012-08-21",
+      "genre": ["First-person shooter"],
+      "platforms": ["PC", "PlayStation 3", "Xbox 360"],
+      "image": "https://example.com/counter_strike_global_offensive.jpg"
+    }
+  ]
+}

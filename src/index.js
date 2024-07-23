@@ -11,7 +11,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Signup from './pages/Signup';
-import Home from './pages/Home';
+import GameIndex from './pages/GameIndex';
+import About from './pages/About'
 
 const router = createBrowserRouter([
   {
@@ -23,8 +24,12 @@ const router = createBrowserRouter([
     element: <Signup />
   },
   {
-    path: "/Home",
-    element: <Home />
+    path: "/About",
+    element: <About />
+  },
+  {
+    path: "/GameIndex",
+    element: <GameIndex />
   }
 ]);
 
