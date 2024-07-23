@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "id": 1,
       "title": "The Legend of Zelda: Breath of the Wild",
@@ -201,4 +200,4 @@
       "image": "https://example.com/counter_strike_global_offensive.jpg"
     }
   ]
-}
+  
